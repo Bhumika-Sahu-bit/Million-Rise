@@ -447,7 +447,7 @@ I build modern, responsive and production-ready web applications with a focus on
 **Email:** [bhumi16124@gmail.com](mailto:bhumi16124@gmail.com)
 
 **GitHub:**
-https://github.com/luckygole
+https://github.com/Bhumika-Sahu-bit
 
 **Project Repository:**
 https://github.com/Bhumika-Sahu-bit/Million-Rise
