@@ -6,7 +6,7 @@
   <a href="https://millions-rise-2qzwv88dh-lucky-goles-projects.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Live%20Website-Millions%20Rise-success?style=for-the-badge" alt="Live Website"/>
   </a>
-  <a href="https://github.com/luckygole/Millions-rise">
+  <a href="https://github.com/Bhumika-Sahu-bit/Million-Rise">
     <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 </p>
@@ -19,7 +19,7 @@
 https://millions-rise-2qzwv88dh-lucky-goles-projects.vercel.app/
 
 **Source Code:**
-https://github.com/luckygole/Millions-rise
+https://github.com/Bhumika-Sahu-bit/Million-Rise
 
 ---
 
@@ -450,7 +450,7 @@ I build modern, responsive and production-ready web applications with a focus on
 https://github.com/luckygole
 
 **Project Repository:**
-https://github.com/luckygole/Millions-rise
+https://github.com/Bhumika-Sahu-bit/Million-Rise
 
 **Live Project:**
 https://millions-rise-2qzwv88dh-lucky-goles-projects.vercel.app/
