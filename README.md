@@ -306,7 +306,7 @@ This structure allows the platform to manage dynamic website content without har
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/luckygole/Millions-rise.git
+git clone https://github.com/Bhumika-Sahu-bit/Million-Rise.git
 cd Millions-rise
 ```
 
