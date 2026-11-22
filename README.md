@@ -3,7 +3,7 @@
 > **A production-style full-stack financial platform built with the MERN stack, designed to deliver market insights, investment information, financial tools, and client-focused wealth solutions through a modern and responsive web experience.**
 
 <p align="center">
-  <a href="https://millions-rise-2qzwv88dh-lucky-goles-projects.vercel.app/">
+  <a href="https://millions-rise-ms8xl824z-lucky-goles-projects.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Live%20Website-Millions%20Rise-success?style=for-the-badge" alt="Live Website"/>
   </a>
   <a href="https://github.com/Bhumika-Sahu-bit/Million-Rise">
@@ -16,7 +16,7 @@
 ## 🌐 Live Project
 
 **Live Website:**
-https://millions-rise-2qzwv88dh-lucky-goles-projects.vercel.app/
+https://millions-rise-ms8xl824z-lucky-goles-projects.vercel.app/
 
 **Source Code:**
 https://github.com/Bhumika-Sahu-bit/Million-Rise
